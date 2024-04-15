@@ -8,7 +8,7 @@ It aims to provide in-depth insights into various aspects of tennis gameplay. It
 
 It also provides a practical application of ML, enabling users to build robust systems that can analyze and extract meaningful insights from complex video data.
 
-![Output Video](output_videos/output_video.avi)
+![Output Video](output_videos/output.png)
 
 ## Key Features
 
